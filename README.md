@@ -1,5 +1,5 @@
 
-<img src="https://i.imgur.com/3vs8gyv.jpeg"/>
+<img src="https://i.imgur.com/6e18wB3.png"/>
 
 # Izaak Gray 
 
