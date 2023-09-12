@@ -1,5 +1,6 @@
 
-![Izaak Gray](https://i.imgur.com/ThKREFs.png)
+<img src="https://i.imgur.com/3vs8gyv.jpeg"/>
+
 # Izaak Gray 
 
 # Bio
