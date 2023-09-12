@@ -1,16 +1,17 @@
-### Hi there 👋
+Izaak Gray
+Bio
+Marketing enthusiast with a talent for growth hacking and crafting viral content. Knows the magic formula for engaging stories and copy that improves engagement.
 
-<!--
-**IzaakGrayAg3ncy/IzaakGrayAg3ncy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Qualifications and Work Experience
+Bachelors in Marketing from XYZ University
+Growth Marketer at 123 Company (2019 - Present)
+Marketing Intern at ABC Inc. (2017)
+GitHub Stats
+Show Image
 
-Here are some ideas to get you started:
+Skills
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me
+Twitter: twitter.com/IzaakGray
+LinkedIn: linkedin.com/in/izaakgray
